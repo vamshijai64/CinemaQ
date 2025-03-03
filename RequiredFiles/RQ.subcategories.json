@@ -1,0 +1,332 @@
+[{
+  "_id": {
+    "$oid": "67c5961e63536520ded2e873"
+  },
+  "name": "prabhas",
+  "image": "/uploads/1741002270847-prbahs.jpeg",
+  "category": {
+    "$oid": "67c5958163536520ded2e862"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:44:30.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:44:30.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5964663536520ded2e87a"
+  },
+  "name": "vijaydevarakonda",
+  "image": "/uploads/1741002310291-vijaydevarkonda.jpeg",
+  "category": {
+    "$oid": "67c5958163536520ded2e862"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:45:10.300Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:45:10.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5965663536520ded2e87f"
+  },
+  "name": "nithin",
+  "image": "/uploads/1741002326581-Nithin.jpg",
+  "category": {
+    "$oid": "67c5958163536520ded2e862"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:45:26.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:45:26.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5967063536520ded2e884"
+  },
+  "name": "maheshababu",
+  "image": "/uploads/1741002352902-maheshbabu.jpeg",
+  "category": {
+    "$oid": "67c5958163536520ded2e862"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:45:52.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:45:52.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5968163536520ded2e889"
+  },
+  "name": "jr.ntr",
+  "image": "/uploads/1741002369314-ntr.jpeg",
+  "category": {
+    "$oid": "67c5958163536520ded2e862"
+  },
+  "quizzes": [
+    {
+      "$oid": "67c5a8226496aa814fc1fb25"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-03T11:46:09.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T13:01:22.849Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67c5973763536520ded2e8a6"
+  },
+  "name": "keerthi suresh",
+  "image": "/uploads/1741002551424-keerthisuresh.jpeg",
+  "category": {
+    "$oid": "67c595a663536520ded2e867"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:49:11.433Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:49:11.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5974963536520ded2e8ab"
+  },
+  "name": "nainathara",
+  "image": "/uploads/1741002569714-nainathara.jpeg",
+  "category": {
+    "$oid": "67c595a663536520ded2e867"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:49:29.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:49:29.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5975c63536520ded2e8b0"
+  },
+  "name": "samantha",
+  "image": "/uploads/1741002588120-samantha.jpeg",
+  "category": {
+    "$oid": "67c595a663536520ded2e867"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:49:48.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:49:48.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5977663536520ded2e8b5"
+  },
+  "name": "rashmika mandana",
+  "image": "/uploads/1741002614443-rashmika.jpeg",
+  "category": {
+    "$oid": "67c595a663536520ded2e867"
+  },
+  "quizzes": [
+    {
+      "$oid": "67c59adc5acd03cb40c15cc7"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-03T11:50:14.453Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T12:04:44.989Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67c597cd63536520ded2e8bc"
+  },
+  "name": "yevadi gola vadidhi",
+  "image": "/uploads/1741002701372-yevadi gola vadidhi.jpeg",
+  "category": {
+    "$oid": "67c595b663536520ded2e86a"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:51:41.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:51:41.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c597df63536520ded2e8c1"
+  },
+  "name": "ashta chemma",
+  "image": "/uploads/1741002719026-ashta chemma.jpeg",
+  "category": {
+    "$oid": "67c595b663536520ded2e86a"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:51:59.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:51:59.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c597fa63536520ded2e8c6"
+  },
+  "name": "kithakithalu",
+  "image": "/uploads/1741002746157-comedy.jpeg",
+  "category": {
+    "$oid": "67c595b663536520ded2e86a"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:52:26.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:52:26.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5980863536520ded2e8cb"
+  },
+  "name": "sudigalisudheer",
+  "image": "/uploads/1741002760662-comedy.jpeg",
+  "category": {
+    "$oid": "67c595b663536520ded2e86a"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:52:40.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:52:40.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5985263536520ded2e8d2"
+  },
+  "name": "kgf",
+  "image": "/uploads/1741002834304-kgf.jpeg",
+  "category": {
+    "$oid": "67c595d563536520ded2e86d"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:53:54.312Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:53:54.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5986863536520ded2e8d7"
+  },
+  "name": "salaar",
+  "image": "/uploads/1741002856298-Salaar.jpeg",
+  "category": {
+    "$oid": "67c595d563536520ded2e86d"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:54:16.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:54:16.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5987563536520ded2e8dc"
+  },
+  "name": "salaar 2",
+  "image": "/uploads/1741002869282-salaar.jpg",
+  "category": {
+    "$oid": "67c595d563536520ded2e86d"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:54:29.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:54:29.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5988463536520ded2e8e1"
+  },
+  "name": "devara",
+  "image": "/uploads/1741002884218-devara.jpeg",
+  "category": {
+    "$oid": "67c595d563536520ded2e86d"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:54:44.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:54:44.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5989163536520ded2e8e6"
+  },
+  "name": "rrr",
+  "image": "/uploads/1741002897071-RRR.jpeg",
+  "category": {
+    "$oid": "67c595d563536520ded2e86d"
+  },
+  "quizzes": [],
+  "createdAt": {
+    "$date": "2025-03-03T11:54:57.080Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:54:57.080Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67c58bb3554ed1cca1e2fb76"
+  },
+  "title": "Salaar",
+  "description": "This is a new movie",
+  "imageUrl": "/uploads/1740999603023-salaar.jpg",
+  "createdAt": {
+    "$date": "2025-03-03T11:00:03.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:00:03.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c58db563536520ded2e84f"
+  },
+  "title": "OG",
+  "description": "This is a new movie",
+  "imageUrl": "/uploads/1741000117788-OG_Poster.jpg",
+  "createdAt": {
+    "$date": "2025-03-03T11:08:37.818Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:08:37.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c58dd563536520ded2e851"
+  },
+  "title": "KGF",
+  "description": "This is a new movie",
+  "imageUrl": "/uploads/1741000149720-kgf.jpeg",
+  "createdAt": {
+    "$date": "2025-03-03T11:09:09.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:09:09.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c58dd863536520ded2e853"
+  },
+  "title": "KGF",
+  "description": "This is a new movie",
+  "imageUrl": "/uploads/1741000152774-kgf.jpeg",
+  "createdAt": {
+    "$date": "2025-03-03T11:09:12.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:09:12.778Z"
+  },
+  "__v": 0
+}]

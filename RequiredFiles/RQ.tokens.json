@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "67c58246bcd2f41647fcebfb"
+  },
+  "userId": {
+    "$oid": "67c58223bcd2f41647fcebf6"
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2M1ODIyM2JjZDJmNDE2NDdmY2ViZjYiLCJpYXQiOjE3NDA5OTcxOTB9.8JufbetSD66N_8-K45UWmzeaNDdSHo8lC8QAE597p1E",
+  "createdAt": {
+    "$date": "2025-03-03T10:19:50.658Z"
+  },
+  "__v": 0
+}]

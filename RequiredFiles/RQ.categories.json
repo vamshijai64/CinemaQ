@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "67c5958163536520ded2e862"
+  },
+  "name": "Hero",
+  "imageUrl": "/uploads/1741002113436-Heros.jpeg",
+  "subcategories": [
+    {
+      "$oid": "67c5961e63536520ded2e873"
+    },
+    {
+      "$oid": "67c5964663536520ded2e87a"
+    },
+    {
+      "$oid": "67c5965663536520ded2e87f"
+    },
+    {
+      "$oid": "67c5967063536520ded2e884"
+    },
+    {
+      "$oid": "67c5968163536520ded2e889"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-03T11:41:53.446Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:46:09.323Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "67c595a663536520ded2e867"
+  },
+  "name": "Heroine",
+  "imageUrl": "/uploads/1741002150910-Herions.jpeg",
+  "subcategories": [
+    {
+      "$oid": "67c5973763536520ded2e8a6"
+    },
+    {
+      "$oid": "67c5974963536520ded2e8ab"
+    },
+    {
+      "$oid": "67c5975c63536520ded2e8b0"
+    },
+    {
+      "$oid": "67c5977663536520ded2e8b5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-03T11:42:30.920Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:50:14.456Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "67c595b663536520ded2e86a"
+  },
+  "name": "Comedy",
+  "imageUrl": "/uploads/1741002166138-comedy.jpeg",
+  "subcategories": [
+    {
+      "$oid": "67c597cd63536520ded2e8bc"
+    },
+    {
+      "$oid": "67c597df63536520ded2e8c1"
+    },
+    {
+      "$oid": "67c597fa63536520ded2e8c6"
+    },
+    {
+      "$oid": "67c5980863536520ded2e8cb"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-03T11:42:46.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:52:40.670Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "67c595d563536520ded2e86d"
+  },
+  "name": "Action",
+  "imageUrl": "/uploads/1741002197541-Action.jpeg",
+  "subcategories": [
+    {
+      "$oid": "67c5985263536520ded2e8d2"
+    },
+    {
+      "$oid": "67c5986863536520ded2e8d7"
+    },
+    {
+      "$oid": "67c5987563536520ded2e8dc"
+    },
+    {
+      "$oid": "67c5988463536520ded2e8e1"
+    },
+    {
+      "$oid": "67c5989163536520ded2e8e6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-03T11:43:17.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:54:57.082Z"
+  },
+  "__v": 5
+}]

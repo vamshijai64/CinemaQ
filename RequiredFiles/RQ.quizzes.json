@@ -1,0 +1,481 @@
+[{
+  "_id": {
+    "$oid": "67c5a8226496aa814fc1fb25"
+  },
+  "title": "NTR Quiz",
+  "subcategory": {
+    "$oid": "67c5968163536520ded2e889"
+  },
+  "category": {
+    "$oid": "67c5958163536520ded2e862"
+  },
+  "questions": [
+    {
+      "question": "In which year did NTR Sr. make his acting debut?",
+      "options": [
+        {
+          "id": "1",
+          "name": "1945",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb27"
+          }
+        },
+        {
+          "id": "2",
+          "name": "1949",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb28"
+          }
+        },
+        {
+          "id": "3",
+          "name": "1951",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb29"
+          }
+        },
+        {
+          "id": "4",
+          "name": "1955",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb2a"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "3"
+      },
+      "hint": "His first movie was 'Mana Desam'.",
+      "image": null,
+      "hashtags": [
+        "#ntr",
+        "#manadesam",
+        "#tollywood"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb26"
+      }
+    },
+    {
+      "question": "Which mythological role made NTR Sr. a superstar?",
+      "options": [
+        {
+          "id": "1",
+          "name": "Lord Krishna",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb2c"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Ravana",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb2d"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Arjuna",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb2e"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Hanuman",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb2f"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "1"
+      },
+      "hint": "He was called 'the face of Krishna' in Telugu cinema.",
+      "image": null,
+      "hashtags": [
+        "#ntr",
+        "#krishna",
+        "#legend"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb2b"
+      }
+    },
+    {
+      "question": "Which political party did NTR Sr. establish?",
+      "options": [
+        {
+          "id": "1",
+          "name": "Congress",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb31"
+          }
+        },
+        {
+          "id": "2",
+          "name": "BJP",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb32"
+          }
+        },
+        {
+          "id": "3",
+          "name": "TDP",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb33"
+          }
+        },
+        {
+          "id": "4",
+          "name": "YSRCP",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb34"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "3"
+      },
+      "hint": "The party's symbol is the cycle.",
+      "image": null,
+      "hashtags": [
+        "#tdp",
+        "#andhrapolitics",
+        "#ntr"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb30"
+      }
+    },
+    {
+      "question": "In which movie did Jr. NTR make his debut as a child artist?",
+      "options": [
+        {
+          "id": "1",
+          "name": "Bala Ramayanam",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb36"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Student No.1",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb37"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Yamadonga",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb38"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Simhadri",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb39"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "1"
+      },
+      "hint": "He played Lord Rama as a kid.",
+      "image": null,
+      "hashtags": [
+        "#jrntr",
+        "#childartist",
+        "#tollywood"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb35"
+      }
+    },
+    {
+      "question": "Which movie gave Jr. NTR the title 'Young Tiger'?",
+      "options": [
+        {
+          "id": "1",
+          "name": "Student No.1",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb3b"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Aadi",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb3c"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Simhadri",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb3d"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Yamadonga",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb3e"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "2"
+      },
+      "hint": "The film's dialogue 'Vastaadu Naa Raju' became iconic.",
+      "image": null,
+      "hashtags": [
+        "#jrntr",
+        "#aadi",
+        "#youngtiger"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb3a"
+      }
+    },
+    {
+      "question": "In which blockbuster movie did Jr. NTR play the role of 'Komaram Bheem'?",
+      "options": [
+        {
+          "id": "1",
+          "name": "RRR",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb40"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Aravinda Sametha",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb41"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Janatha Garage",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb42"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Nannaku Prematho",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb43"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "1"
+      },
+      "hint": "This movie was directed by SS Rajamouli.",
+      "image": null,
+      "hashtags": [
+        "#rrr",
+        "#komarambheem",
+        "#jrntr"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb3f"
+      }
+    },
+    {
+      "question": "Who directed Jr. NTR's film 'Temper'?",
+      "options": [
+        {
+          "id": "1",
+          "name": "Trivikram Srinivas",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb45"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Sukumar",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb46"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Koratala Siva",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb47"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Puri Jagannadh",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb48"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "4"
+      },
+      "hint": "This movie was remade in Hindi as 'Simmba'.",
+      "image": null,
+      "hashtags": [
+        "#temper",
+        "#purijagannadh",
+        "#jrntr"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb44"
+      }
+    },
+    {
+      "question": "Which of these films was NOT a Jr. NTR movie?",
+      "options": [
+        {
+          "id": "1",
+          "name": "Simhadri",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb4a"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Brindavanam",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb4b"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Ala Vaikunthapurramuloo",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb4c"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Baadshah",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb4d"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "3"
+      },
+      "hint": "This movie starred Allu Arjun, not Jr. NTR.",
+      "image": null,
+      "hashtags": [
+        "#jrntr",
+        "#tollywood",
+        "#movietrivia"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb49"
+      }
+    },
+    {
+      "question": "Which Jr. NTR movie had the hit song 'Follow Follow'?",
+      "options": [
+        {
+          "id": "1",
+          "name": "Janatha Garage",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb4f"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Nannaku Prematho",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb50"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Jai Lava Kusa",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb51"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Aravinda Sametha",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb52"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "2"
+      },
+      "hint": "The film was a stylish revenge drama.",
+      "image": null,
+      "hashtags": [
+        "#nannakuprematho",
+        "#followfollow",
+        "#jrntr"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb4e"
+      }
+    },
+    {
+      "question": "What is the name of Jr. NTR's father?",
+      "options": [
+        {
+          "id": "1",
+          "name": "Nandamuri Harikrishna",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb54"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Nandamuri Balakrishna",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb55"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Nandamuri Kalyan Ram",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb56"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Nandamuri Taraka Rama Rao",
+          "_id": {
+            "$oid": "67c5a8226496aa814fc1fb57"
+          }
+        }
+      ],
+      "correctOption": {
+        "id": "1"
+      },
+      "hint": "He was a popular actor and politician.",
+      "image": null,
+      "hashtags": [
+        "#nandamurifamily",
+        "#harikrishna",
+        "#jrntr"
+      ],
+      "_id": {
+        "$oid": "67c5a8226496aa814fc1fb53"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-03T13:01:22.832Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T13:01:22.832Z"
+  },
+  "__v": 0
+}]

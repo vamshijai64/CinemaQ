@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "67c5a9d108078c25e1c1144b"
+  },
+  "title": "KGF",
+  "imageUrl": "uploads\\1741007313378-kgf.jpeg",
+  "createdAt": {
+    "$date": "2025-03-03T13:08:33.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5a9eb08078c25e1c1144e"
+  },
+  "title": "Salaar",
+  "imageUrl": "uploads\\1741007339018-salaar.jpg",
+  "createdAt": {
+    "$date": "2025-03-03T13:08:59.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5a9fc08078c25e1c11451"
+  },
+  "title": "OG",
+  "imageUrl": "uploads\\1741007356566-OG_Poster.jpg",
+  "createdAt": {
+    "$date": "2025-03-03T13:09:16.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5aa0908078c25e1c11454"
+  },
+  "title": "Devara",
+  "imageUrl": "uploads\\1741007369648-devara.jpeg",
+  "createdAt": {
+    "$date": "2025-03-03T13:09:29.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5aa1808078c25e1c11457"
+  },
+  "title": "Pushpa 2",
+  "imageUrl": "uploads\\1741007384206-pushpa2.jpeg",
+  "createdAt": {
+    "$date": "2025-03-03T13:09:44.212Z"
+  },
+  "__v": 0
+}]
