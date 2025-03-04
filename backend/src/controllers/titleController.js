@@ -6,7 +6,8 @@ exports.addTitle = async (req, res) => {
             return res.status(400).json({ error: 'Image file is required' });
         }
         const { title } = req.body;
-        const imageUrl = req.file.path;
+      //  const imageUrl = req.file.path;
+const imageUrl = `/uploads/${req.file.filename}`;
         
         const data = await TitleService.addTitle(title, imageUrl);
         res.status(200).json(data)

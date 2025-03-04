@@ -74,8 +74,11 @@ exports.updateUserProfile = async (req, res) => {
 
         const updateData = {};        
         if (username) updateData.username = username;
-        if (req.file?.path) updateData.profileImage = req.file.path; // Save new image path
-        if(gender) updateData.gender = gender;
+        //if (req.file?.path) updateData.profileImage = req.file.path; // Save new image path
+        if (req.file?.filename) {
+            updateData.profileImage = `/uploads/${req.file.filename}`;
+        }
+           if(gender) updateData.gender = gender;
         if(fan) updateData.fan = fan
 
         const updatedUser = await userService.updateUserProfile(userIdFromToken, updateData);
